@@ -96,7 +96,7 @@ body{
 
 /* poster */
 #display-poster{
-    background-image: url('Images/hero4\ \(1\).png');
+    background-image: url('../data/Images/hero4\ \(1\).png');
     height: 90vh;
     width:100%;
     background-position: top 25% right 0;
@@ -113,7 +113,7 @@ body{
 }
 
 #display-poster button{
-  background-image: url('Images/button.png');
+  background-image: url('../data/Images/button.png');
   background-color: transparent;
   color: #088178;
   border: none;
